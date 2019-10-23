@@ -1,0 +1,3 @@
+[run]
+source = tims
+omit = tims/test*
